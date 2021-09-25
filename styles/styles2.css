@@ -1,0 +1,114 @@
+div.a {
+  text-align: left;
+  font-size: 120%;
+  width: 800px;
+  background: white ; 
+  border-style: solid;
+  border-color: #28a745;
+  border-width: 20px;
+  padding: 50px;
+  margin: auto;
+  margin-bottom: 2em;
+}
+
+div.b {
+  text-align: left;
+  font-size: 120%;
+  width: 1200px;
+  background: white ; 
+  border-style: solid;
+  border-color: #28a745;
+  border-width: 20px;
+  padding: 50px;
+  margin: auto;
+  margin-bottom: 1em;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-top: 3em;
+    font-size: 150%;
+    background-color: #28a745;
+    color: white;
+    font-family: Papyrus, Copperplate;
+    font-style: oblique;
+}
+
+body { 
+  background: orange; 
+}
+
+h1 {
+  text-align: center;
+  background-color: orange;
+  font-size: 350%;
+  font-family: Papyrus, Copperplate;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+
+table {
+  border-collapse: collapse;
+  border: 5px solid rgb(40,167,69);
+  letter-spacing: 1px;
+  margin: auto;
+}
+
+th {
+  background-color: #28a745;
+  font-size: 130%;
+  text-align: center;
+  color:white; 
+  border: 5px solid rgb(40,167,69);
+  padding: 20px;
+}
+
+td {
+  text-align: center;
+  line-height: 1.6;
+  background-color: white;
+  border: 5px solid rgb(40,167,69);
+  padding: 20px;
+}
+
+div.c-wrapper {
+    width: 50%; 
+    margin: auto;
+    border: 20px solid rgb(40,167,69);
+}
+
+iframe {
+    display:block;
+    margin: auto;
+    margin-bottom: 2em;
+    width: 60%; 
+    height: 35em;
+    border: 20px solid rgb(40,167,69);
+}
+
+.card {
+    width: 60%;
+    margin: auto;
+    border: 5px solid rgb(40,167,69);
+}
+
+.card-header {
+    Background-color: rgb(40,167,69);
+    border: 5px solid rgb(40,167,69);
+    font-size: 125%
+}
+
+.container {
+    margin-top: 2em;
+    border: 20px solid rgb(40,167,69);
+}
+
+.navbar {
+  font-size: 150%
+}
+
+.blockquote-footer {
+  color: black;
+}
